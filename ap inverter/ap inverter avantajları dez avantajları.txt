@@ -1,0 +1,6 @@
+ap inverter skech teknigi ile kodlamada kolaylýk saglar programlamsý kolaydýr
+ap inverter kurulum dosyasý;
+http://appinventor.mit.edu/explore/ai2/windows.html#
+kurduktan sonra bu sayfadaki kreate týkla gmail ile giriþ yap
+uygulamayý baþlattýktan sonra masaustundeki emilatore baglanýr ve orda simile eder
+
