@@ -1,2 +1,2 @@
 # meal-plug
-got emrah
+javascript dili hakkında araştırmaya başlayacağım
