@@ -1,0 +1,3 @@
+anduroid studio arayuz konusunda esnek kullanýmý basit tap tuþu ile kodu tamamlama gibi ozellikleri var
+yukleme linki
+https://developer.android.com/studio
