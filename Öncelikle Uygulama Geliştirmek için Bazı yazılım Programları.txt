@@ -16,3 +16,5 @@ https://www.xamarin.com/
  
 
 Kýsacasý, þuan için  senin düþündüðün gibi, hepsini ayný anda yapabileceðin bir platform yok, Ama dil olarak Javascript i kullanýrsan en azýndan tek dille hem mobil hem de masa üstü programlama yapma imkanýn olabilir.
+
+http://devnot.com/2017/react-native-ile-android-ve-ios-programlama/
