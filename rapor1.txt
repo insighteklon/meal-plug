@@ -1,0 +1,14 @@
+1:Arayuz tasarimi-hosgeldin 
+1.1:Uygulama simgesi degisecek
+1.2:Arka plan ayarlanacak
+1.3:Uygulama ismi NEVU TAFANA(sizin isteginize göre degistirilebilir)olarak ayarlanacak
+1.4:Giris sayfasýnda akademisyen & ogrenci secenegi 
+1.5:Ogrenci numarsi & akademisyen bilgisi
+1.6:Sifre 
+1.7:Giris/Cikis/iptal botonu
+------------------------------------------
+1.1:project->app->src->main->res(mipmap-hdpi, mipmap-mdpi, mipmap-xhdpi, mipmap-xxhdpi, mipmap-xxxhdpi)
+res klasorunde bulunan iconlar/simgeler herbiri farkli cozunurluktedir. 
+Yeni eklenecek simge ayni cozunurluge sahip mipmap klasorlerine atýlýr.
+Ekleme su sekilde yapýlýr:Yukardaki cozunurluk klasor secili vaziyette olacak sekilde eklenecek resimi Alt tosuna 
+basýlý tutularak secili klasore sürüklenir ve cýkan pencerede ok tosuna basýlýr.       
