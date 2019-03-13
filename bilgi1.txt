@@ -1,0 +1,10 @@
+java klasörü altýnda java kodlarýmýz ve paket ismi olmasý lazým.
+Paket:Java da yazýlan kodlarý mantýksal gruplara ayýrýr.
+AndroidManifest.xml kýsmýnda telefondan uygulamada kamera kullanýmý, internete eriþim ve konum paylaþma
+gibi olanaklar saðlamaktadýr(izin alýnýr). Ayný zamanda 
+android:icon komutunda uygulama logusu 
+android:label komutunda uygulama adý
+tema ayarý gibi birçok ayarlama yapýlabilir.
+Test dosyasýnda bulunan build.gradle'de Id (paket) ayarlama, uygulama güncelleme iþine yaramaktadýr.
+ 
+   
